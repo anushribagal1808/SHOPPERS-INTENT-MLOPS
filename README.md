@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shoppers Intent MLOps
 
 A production-grade end-to-end ML Classification project that predicts whether an online shopper will make a purchase or not.
@@ -193,3 +194,7 @@ All modules log to:
 
 ## Author
 Anushri bagal
+=======
+# SHOPPERS-INTENT-MLOPS
+this is my project in machine learning
+>>>>>>> a57ca844c8afa24eb7f32ef6eba863d1831ec2fd
