@@ -121,7 +121,7 @@ shoppers-intent-mlops/
 ### Steps
 ```bash
 # clone repository
-git clone https://github.com/Amitmakode/shoppers-intent-mlops.git
+git clone https://github.com/anushribagal1808/SHOPPERS-INTENT-MLOPS.git
 cd shoppers-intent-mlops
 
 # create virtual environment
