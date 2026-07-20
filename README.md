@@ -4,8 +4,8 @@
 A production-grade end-to-end ML Classification project that predicts whether an online shopper will make a purchase or not.
 
 ## Live Demo
-- **Frontend**: https://shoppers-intent-mlops.onrender.com
-- **Swagger UI**: https://shoppers-intent-mlops.onrender.com/docs
+- **Frontend**: https://shoppers-intent-mlops-rnb9.onrender.com
+- **Swagger UI**: https://shoppers-intent-mlops-rnb9.onrender.com/docs
 
 ## Tech Stack
 | Layer | Technology |
